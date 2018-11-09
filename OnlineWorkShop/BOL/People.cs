@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BOL
 {
-    class People
+    class people
     {
     }
 }
